@@ -25,7 +25,7 @@ SECRET_KEY = '9vzxvj3k@=9t6+=j095v%ewk76%21xd12f)qtc9lzpad2ilex%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1', 'dyna-hotels.herokuapp.com']
 
 
 # Application definition
